@@ -1,2 +1,2 @@
 # bashscript
-This Repository cotains basic bash projects for begineers!!
+This Repository contains basic bash projects for begineers!!
