@@ -1,2 +1,2 @@
 # bashscript
-just for testing!!
+This Repository cotains basic bash projects for begineers!!
